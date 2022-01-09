@@ -35,6 +35,16 @@ The database used in the application is firebase which is a NoSQL database. Fire
 
 But in this project, I have used these three functionalities. Authentication for signup, Real-time database for storing data related to the user such as student result, email, link of profile pic apart from that real-time storage also store the announcement data. At last Firebase storage for storing the images related to announcements, and profiles of students and getting their download link to store in a real-time database.
 
+## **Functionality & Concepts used**
+
+This application has a simple yet interactive interface so that the students could easily interact with this application without any problems. Following are the concepts used in application to provide functionalities.
+
+- `Constraint Layout` : Most of the activities in this application use constraint layout to arrange the UI elements easily without writing much code.
+- `Recyclerview` :  For creating a list of all the announcements and presenting them to the user recycler view is used. 
+- `Dhaval Image picker` : For selecting the images which the user decides as their profile pictures or as a part of making an announcement.
+- `Firebase` : For storing user information, User Data and Authentication purpose.
+- `Material Design` : For making this application more interactive or beautiful material design has been used in signup and sign-in options.
+
 
 
   <table align="center">
