@@ -147,5 +147,10 @@ This application has a simple yet interactive interface so that the students cou
 </table><br><br>
 
 
+#### APK link: [CollegeApp](https://drive.google.com/drive/folders/1CmKKBfYSPCvIuQ1fs2kl6CTv0nnUsrEN?usp=sharing)
 
+
+#### Future Scope
+
+Could be furthur more developed into a fully fledged college application which would be capable of carrying out transaction(Paying fees), Hosting classes online and much more. 
 
