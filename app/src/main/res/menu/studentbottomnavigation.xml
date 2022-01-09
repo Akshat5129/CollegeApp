@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/announcement"
+        android:icon="@drawable/news_feed_icon"
+        android:title="announcement" />
+    <item
+        android:id="@+id/Result"
+        android:icon="@drawable/write_data_teacher"
+        android:title="Result" />
+</menu>

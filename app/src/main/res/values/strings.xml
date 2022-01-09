@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">collegeApp</string>
+    <string name="logograpgicera">TODO</string>
+    <string name="title_activity_teacher_main">TeacherMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_student_main">StudentMainActivity</string>
+    <string name="title_activity_student_mainscreen">StudentMainscreen</string>
+    <string name="title_activity_student_main_screen">StudentMainScreen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

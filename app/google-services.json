@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097415563420",
+    "project_id": "collegeagain-b6ac0",
+    "storage_bucket": "collegeagain-b6ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097415563420:android:8f2ed5a77ae8a833013559",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097415563420-lqt3ic4gnsal72u1kfhn3hmgll2n08g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzJNLQjDglXJMB7L6V90ftAaWBZ1KV-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097415563420-lqt3ic4gnsal72u1kfhn3hmgll2n08g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

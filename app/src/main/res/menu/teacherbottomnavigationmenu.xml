@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/teacherannouncement"
+        android:icon="@drawable/news_feed_icon"
+        android:title="Announcements" />
+    <item
+        android:id="@+id/announcesome"
+        android:icon="@drawable/write_data_teacher"
+        android:title="Announce" />
+    <item
+        android:id="@+id/writeresult"
+        android:icon="@drawable/student_vectorasset"
+        android:title="Write results" />
+</menu>

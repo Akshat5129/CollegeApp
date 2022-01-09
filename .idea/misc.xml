@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/email_mode.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.16018518518518518" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1648148148148148" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/info.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/mid_sem_icon.xml" value="0.16018518518518518" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/news_feed_icon.xml" value="0.1648148148148148" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/person_mode.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/signup_button.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/student_vectorasset.xml" value="0.1685185185185185" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/write_data_teacher.xml" value="0.1648148148148148" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/drawable/write_newsfeed.xml" value="0.1648148148148148" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_admin_signin.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_reading.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_signin_student.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_student_login_signupmode.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_student_main_screen.xml" value="0.18" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_studentseeresult.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_studentsignupdata.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_teacher_login_sighup_mode.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_teacher_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_teacher_main_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_techermainscreen.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_usermode.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/activity_writing_result_teacher.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/adapterforannouncement.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_announcement.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_announcement_teacher.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.1213768115942029" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_home.xml" value="0.1213768115942029" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_notifications.xml" value="0.1213768115942029" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_result.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_writeannouncement.xml" value="0.22" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/fragment_writeresult.xml" value="0.25" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/toolbar.xml" value="0.10914855072463768" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/layout/userdefinedtoolbar.xml" value="0.1213768115942029" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/menu/menuforstudentfragments.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/menu/studentbottomnavigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/menu/teacherbottomnavigationmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/menu/userdefinedoptionstoolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1648148148148148" />
+        <entry key="..\:/computer science/AAdroid Studio/collegeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16018518518518518" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
