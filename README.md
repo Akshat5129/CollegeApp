@@ -1,2 +1,2 @@
-# CollegeApp-
+# CollegeApp
 Android Study Jams
