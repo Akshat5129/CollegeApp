@@ -45,7 +45,8 @@ This application has a simple yet interactive interface so that the students cou
 - `Firebase` : For storing user information, User Data and Authentication purpose.
 - `Material Design` : For making this application more interactive or beautiful material design has been used in signup and sign-in options.
 
-
+ ### App Screenshots :
+ 
 
   <table align="center">
   <tr>
