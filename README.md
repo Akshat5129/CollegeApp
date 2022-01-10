@@ -1,5 +1,3 @@
-# CollegeApp
-
 # Android Study Jams
 
 # CollegeApp 
